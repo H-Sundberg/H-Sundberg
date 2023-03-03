@@ -13,6 +13,6 @@ Welcome to my page, my name is Henrietta and I'm a Systems Science student gradu
 Let's connect on:
 <div id="badges">
   <a href="https://www.linkedin.com/in/henrietta-sundberg-68a411190/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"width="80" height="30"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"width="100" height="30"/>
   </a>
   </div>
